@@ -2,7 +2,7 @@
 Hacking instagram acount
 # InstaInsane v1.0
 ## Author: https://github.com/kaliwalid
-## IG: instagram.com/is.not_walid
+## IG: https://instagram.com/is.not_walid
 ### Don't copy this code without give me the credits, nerd!
 
 
