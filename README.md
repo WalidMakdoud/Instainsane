@@ -1,7 +1,7 @@
 # Instainsane
 Hacking instagram acount
 # InstaInsane v1.0
-## Author: https://github.com/kaliwalid
+## Author: https://github.com/black-hat-rgb
 ## IG: https://instagram.com/is.not_walid
 ### Don't copy this code without give me the credits, nerd!
 
@@ -9,7 +9,7 @@ Hacking instagram acount
 
 ## Legal disclaimer:
 
-![insane](https://github.com/kaliwalid/Instainsane/blob/main/Instainsane.png)
+![insane](https://github.com/black-hat-rgb/Instainsane/blob/main/Instainsane.png)
 
 
 
@@ -27,7 +27,7 @@ Hacking instagram acount
 
 ### Usage:
 ```
-git clone https://github.com/kaliwalid/Instainsane
+git clone https://github.com/black-hat-rgb/Instainsane
 cd Instainsane
 chmod +x instainsane.sh
 sudo ./instainsane.sh
