@@ -2,14 +2,13 @@
 Hacking instagram acount
 # InstaInsane v1.0
 ## Author: https://github.com/black-hat-rgb
-## IG: https://instagram.com/is.not_walid
+## IG: https://instagram.com/h04x_h04x
 ### Don't copy this code without give me the credits, nerd!
 
 
 
 ## Legal disclaimer:
 
-![insane](https://github.com/black-hat-rgb/Instainsane/blob/main/Instainsane.png)
 
 
 
